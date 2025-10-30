@@ -34,7 +34,7 @@ i{
 } 
 
 #center{
-    height: 80%;
+    height: 50%;
     width: 100%;
     text-align: center;
     background-image: url(https://www.apple.com/v/home/ci/images/heroes/iphone-17-pro/hero_iphone_17_pro__bknyzxfk2agi_largetall_2x.jpg);
@@ -70,3 +70,47 @@ i{
     border-radius: 50px;
     border: none;
 }
+
+#iphoneair{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-image: url(https://www.apple.com/v/home/ci/images/heroes/iphone-air/hero_iphone_air__0gxyavihpiqu_largetall.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+
+#iphoneair h1{
+    color: rgb(0, 0, 0);
+    font-size: 60px;
+    font-weight: 600;
+    font-family: seb;
+}
+#iphoneair h5{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    font-weight: 300;
+}
+
+#macbook{
+    height: 50%;
+    width: 100%;
+    text-align: center;
+    background-image: url(https://www.apple.com/v/home/ci/images/heroes/macbook-pro-m5/hero_macbook_pro_m5__fjgmapbkxo2u_largetall.jpg);
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+}
+
+#macbook h1{
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    font-weight: 600;
+    font-family: seb;
+}
+#macbook h5{
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+    font-weight: 300;
+}   
